@@ -1,0 +1,8 @@
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\bin\Debug\Gestor_De_Estoque_POO_CMD.exe.config
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\bin\Debug\Gestor_De_Estoque_POO_CMD.exe
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\bin\Debug\Gestor_De_Estoque_POO_CMD.pdb
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\obj\Debug\Gestor_De_Estoque_POO_CMD.csproj.AssemblyReference.cache
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\obj\Debug\Gestor_De_Estoque_POO_CMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\obj\Debug\Gestor_De_Estoque_POO_CMD.csproj.CoreCompileInputs.cache
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\obj\Debug\Gestor_De_Estoque_POO_CMD.exe
+C:\Users\Everton\source\repos\Gestor_De_Estoque_POO_CMD\Gestor_De_Estoque_POO_CMD\obj\Debug\Gestor_De_Estoque_POO_CMD.pdb
